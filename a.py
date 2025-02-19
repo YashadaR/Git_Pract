@@ -6,6 +6,8 @@ class Person:
 
 P1 = Person(5.1, 25, "Maharashtra")
 P2 = Person(5.5, 20, "Karnataka")   
+P3 = Person(6.1, 25, "Rajasthan")
 
 print(P1.height)
 print(P2.native_State)
+print(P3.age)
